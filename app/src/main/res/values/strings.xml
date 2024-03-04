@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android</string>
+
+
+    <string name="calcular">Mayor</string>
+    <string name="code1">numero 1</string>
+    <string name="code2">numero 2</string>
+    <string name="Resultado">resultado</string>
+</resources>
